@@ -1,0 +1,2 @@
+googleUSUrl=$GOOGLE_US_URL
+googleIndiaUrl=$GOOGLE_INDIA_URL
