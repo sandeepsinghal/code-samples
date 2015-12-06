@@ -6,4 +6,5 @@ names = ["sandeep", "ruby", "sam", "sid"]
 for name in names:
     print name
 
-print "Size of the list "
+# Size of the list
+print len(names)
