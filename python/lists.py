@@ -8,3 +8,8 @@ for name in names:
 
 # Size of the list
 print len(names)
+
+# Accessing an element
+print "First element is : " + str(names[0])
+
+
