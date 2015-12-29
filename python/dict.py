@@ -8,9 +8,10 @@ print word_counts["ruby"]
 if "sid" in word_counts:
     print "present"
 
-#def awesome_count(dict):
+# Two ways to initialize a dictionary
+michaeljordan = { "name" : "Micheal", "surname" : "Jordan", "nick" : "AirJordan", "status" : "Legend", "age" : 50}
+michaeljordan_two = dict(name="Micheal",surname='Jordan',nick="AirJordan",status="Legend",age=50)
 
-#    if 'awesome' in dict
-#        return dict['awesome']
-#    else
-#        return 0
+print michaeljordan
+
+print michaeljordan_two
